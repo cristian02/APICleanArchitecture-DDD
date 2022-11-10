@@ -20,7 +20,7 @@ Rest API in .Net 6.0 with Clean Architecture and Domain Driven Design
   
 </ol>
 
-#Extensions 
+## Extensions 
 Rest Client in VS Code (REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.)
 
 <!-- CONTACT -->
@@ -28,6 +28,9 @@ Rest Client in VS Code (REST Client allows you to send HTTP request and view the
 Cristian Martínez Hernández 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+## Reference
+https://www.youtube.com/watch?v=fhM0V2N1GpY&t=858s
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
