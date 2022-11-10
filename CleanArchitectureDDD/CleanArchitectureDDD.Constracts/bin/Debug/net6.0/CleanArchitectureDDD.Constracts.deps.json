@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanArchitectureDDD.Constracts/1.0.0": {
+        "runtime": {
+          "CleanArchitectureDDD.Constracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitectureDDD.Constracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

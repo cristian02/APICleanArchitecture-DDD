@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanArchitectureDDD.Api/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureDDD.Application": "1.0.0",
+          "CleanArchitectureDDD.Constracts": "1.0.0",
+          "CleanArchitectureDDD.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureDDD.Api.dll": {}
+        }
+      },
+      "CleanArchitectureDDD.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureDDD.Application.dll": {}
+        }
+      },
+      "CleanArchitectureDDD.Constracts/1.0.0": {
+        "runtime": {
+          "CleanArchitectureDDD.Constracts.dll": {}
+        }
+      },
+      "CleanArchitectureDDD.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitectureDDD.Domain.dll": {}
+        }
+      },
+      "CleanArchitectureDDD.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureDDD.Application": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureDDD.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitectureDDD.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDDD.Constracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDDD.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

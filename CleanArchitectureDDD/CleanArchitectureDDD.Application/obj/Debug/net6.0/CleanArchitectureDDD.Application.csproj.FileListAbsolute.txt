@@ -1,0 +1,15 @@
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\bin\Debug\net6.0\CleanArchitectureDDD.Application.deps.json
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\bin\Debug\net6.0\CleanArchitectureDDD.Application.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\bin\Debug\net6.0\CleanArchitectureDDD.Application.pdb
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.csproj.AssemblyReference.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.AssemblyInfoInputs.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.AssemblyInfo.cs
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.csproj.CoreCompileInputs.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\refint\CleanArchitectureDDD.Application.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.pdb
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\ref\CleanArchitectureDDD.Application.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\bin\Debug\net6.0\CleanArchitectureDDD.Domain.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\bin\Debug\net6.0\CleanArchitectureDDD.Domain.pdb
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Application\obj\Debug\net6.0\CleanArchitectureDDD.Application.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\bin\Debug\net6.0\CleanArchitectureDDD.Domain.deps.json
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\bin\Debug\net6.0\CleanArchitectureDDD.Domain.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\bin\Debug\net6.0\CleanArchitectureDDD.Domain.pdb
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.csproj.AssemblyReference.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.AssemblyInfoInputs.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.AssemblyInfo.cs
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.csproj.CoreCompileInputs.cache
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\refint\CleanArchitectureDDD.Domain.dll
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\CleanArchitectureDDD.Domain.pdb
+D:\APICleanArchitecture-DDD\CleanArchitectureDDD\CleanArchitectureDDD.Domain\obj\Debug\net6.0\ref\CleanArchitectureDDD.Domain.dll
