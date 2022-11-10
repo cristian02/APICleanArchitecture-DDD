@@ -1,0 +1,9 @@
+POST https://localhost:7154/auth/register 
+Content-Type: application/json
+
+{
+    "firstName" : "Cristian",
+    "lastName" : "Martínez Hernández",
+    "email" : "crismh2@hotmail.com", 
+    "password" : "12345678"
+}
